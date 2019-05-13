@@ -7,7 +7,7 @@ These sample apps are migrated from [nw-sample-apps](https://github.com/zcbenz/n
 [chrome-app-sample](https://github.com/GoogleChrome/chrome-app-samples) and
 [chromium extensions examples](https://code.google.com/p/chromium/codesearch#chromium/src/chrome/common/extensions/docs/examples/&sq=package:chromium&type=cs).
 
-All samples are test on Electron v5.0.0
+All samples are now compatable with Electron v5.0.1
 
 ## How to run apps
 
